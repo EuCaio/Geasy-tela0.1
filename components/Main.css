@@ -1,0 +1,15 @@
+.main {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ecf0f1;
+  padding: 20px;
+  height: 100%;
+}
+
+.main img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
